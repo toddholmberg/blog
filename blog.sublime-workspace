@@ -1,0 +1,580 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"att",
+				"attid"
+			],
+			[
+				"err",
+				"error_log"
+			],
+			[
+				"sco_no",
+				"sco_node_url"
+			],
+			[
+				"drupal_",
+				"drupal_set_message"
+			],
+			[
+				"con",
+				"contentForm"
+			],
+			[
+				"form",
+				"form_id"
+			],
+			[
+				"mi",
+				"missingData"
+			],
+			[
+				"no",
+				"notEmpty"
+			],
+			[
+				"missing",
+				"missingData"
+			],
+			[
+				"ro",
+				"rowData"
+			],
+			[
+				"error",
+				"error_log"
+			],
+			[
+				"attendance",
+				"attendanceData"
+			],
+			[
+				"academi",
+				"academicYearPicker"
+			],
+			[
+				"aca",
+				"academicYearId"
+			],
+			[
+				"save",
+				"saveSectionConfiguration"
+			],
+			[
+				"section",
+				"sectionFormElements"
+			],
+			[
+				"Appli",
+				"Application_Model_AcademicYearMapper"
+			],
+			[
+				"sectionCon",
+				"sectionConfigTable"
+			],
+			[
+				"sectionMa",
+				"sectionMapIds"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"se",
+				"sectionFormElements"
+			],
+			[
+				"secion",
+				"sectionElements"
+			],
+			[
+				"sect",
+				"sectionData"
+			],
+			[
+				"_",
+				"_academicYearId"
+			],
+			[
+				"publi",
+				"published_docs_id"
+			],
+			[
+				"au",
+				"author_id"
+			],
+			[
+				"pub",
+				"published_docs_id"
+			],
+			[
+				"r",
+				"reverseSentence"
+			],
+			[
+				"sen",
+				"sentences"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"rever",
+				"reverse"
+			],
+			[
+				"re",
+				"reverse"
+			],
+			[
+				"reverse",
+				"reverseSentence"
+			],
+			[
+				"ge",
+				"getElementById"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/views/welcome/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 74,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"xdebu",
+				"Preferences: Xdebug Settings – Default"
+			],
+			[
+				"ack",
+				"Package Control: Install Package"
+			],
+			[
+				"Pa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"sn",
+				"Snippet: html"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/sites/all/modules/sco_node/js/sco_node_api_2004.js",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/sites/all/modules/tadev/tadev_sco_lightbox/tadev_sco_lightbox.module",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/sites/all/modules/tadev/tadev_sco_interface/tadev_sco_interface.module",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/sites/all/modules/tadev/tadev_sco_interface/js/tadev_sco_interface_base.js",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/sites/all/modules/sco_node/sco_node.module",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/sites/all/modules/sco_node/tpl/sco_node.tpl.php",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/sites/all/themes/aarp/template.php",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/sites/all/themes/aarp/page-lightbox.tpl.php",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/sites/all/modules/tadev/tadev_sco_lightbox/js/tadev_sco_lightbox_base.js",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/sites/all/modules/tadev/tadev_sco_lightbox/css/tadev_sco_lightbox_base.css",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/sites/all/modules/sco_node/sco_node_api.inc",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/sites/all/modules/tadev/tadev_course_sco/tadev_course_sco.classes.inc",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/sites/all/modules/tadev/tadev_course_sco/js/sco_interface.js",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/sites/all/modules/views_data_export/theme/views_data_export.theme.inc",
+		"/Users/todd/Projects/thomasarts/aarp/tadev_aarp.sublime-project",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/sites/all/libraries/ckeditor/plugins/a11yhelp/dialogs/lang/_translationstatus.txt",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/modules/simpletest/tests/common_test_cron_helper.info",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/modules/simpletest/tests/themes/test_theme/test_theme.info",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/modules/simpletest/tests/themes/test_theme/template.php",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/sites/all/modules/views_data_export/theme/views-data-export-doc-body.tpl.php",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/sites/all/modules/views_data_export/theme/views-data-export-txt-header.tpl.php",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/sites/default/files/css/css_T3gMBV-P-W6vkH-M7RDA1yzIZMwH0u6mg1FYyNCq5Qs.css",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/sites/all/modules/sco_node/sco_node_content.inc",
+		"/usr/local/etc/php/5.4/conf.d/ext-xdebug.ini",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/modules/node/node.module",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/includes/common.inc",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/includes/entity.inc",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/includes/bootstrap.inc",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/includes/cache.inc",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/includes/database/database.inc",
+		"/Users/todd/Sites/webgrind/config.php",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/sites/all/modules/sco_node/sco_node_package.inc",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/sites/all/modules/tadev/tadev_course_progression/plugins/content_types/tadev_parent_lesson_overview.inc",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/sites/all/modules/views/help/style-comment-rss.html",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/includes/session.inc",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/sites/all/modules/ctools/tests/plugins/cached/plugin_array.inc",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/sites/all/modules/ctools/help/plugins-api.html",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/modules/profile/profile-listing.tpl.php",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/includes/pager.inc",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/includes/module.inc",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/modules/taxonomy/taxonomy.module",
+		"/Users/todd/Library/Application Support/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/sites/all/modules/sco_node/sco_node_toc.inc",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/sites/all/modules/tadev/tadev_course_sco/tadev_course_sco.module",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/sites/all/modules/tadev/tadev_cleanup/tadev_cleanup.module",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/sites/all/modules/tadev/tadev_greet_by_name/tadev_greet_by_name.module",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/sites/all/modules/tadev/tadev_course_sco/tadev_course_sco.info",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/sites/all/modules/tadev/tadev_sco_lightbox/tadev_sco_lightbox.info",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/sites/all/modules/course/includes/course_object.core.inc",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/sites/all/modules/sco_node/sco_node.modul",
+		"/Users/todd/Projects/thomasarts/aarp/htdocs/sites/all/modules/course/modules/course_quiz/course_quiz.classes.inc",
+		"/Users/todd/Sites/railstut/demo_app/README.md",
+		"/Users/todd/Sites/railstut/demo_app/Gemfile",
+		"/Users/todd/Sites/railstut/first_app/Gemfile",
+		"/Users/todd/Sites/railstut/first_app/README.md",
+		"/Users/todd/Sites/railstut/first_app/.gitignore",
+		"/Applications/Sublime Text.app/Contents/MacOS/changelog.txt",
+		"/Volumes/toddholmberg.net/cop.toddholmberg.net/seminars/application/controllers/UserController.php",
+		"/Volumes/toddholmberg.net/cop.toddholmberg.net/seminars/application/models/UploadMapper.php",
+		"/Volumes/toddholmberg.net/cop.toddholmberg.net/seminars/application/controllers/UploadController.php",
+		"/Volumes/toddholmberg.net/cop.toddholmberg.net/seminars/application/views/scripts/upload/users.phtml",
+		"/Volumes/toddholmberg.net/cop.toddholmberg.net/seminars/application/models/UserMapper.php",
+		"/Volumes/toddholmberg.net/cop.toddholmberg.net/seminars/application/views/scripts/grading/upload.phtml",
+		"/Volumes/toddholmberg.net/cop.toddholmberg.net/seminars/application/forms/UploadSurvey.php",
+		"/Volumes/toddholmberg.net/cop.toddholmberg.net/seminars/application/views/scripts/upload/survey.phtml",
+		"/Volumes/toddholmberg.net/cop.toddholmberg.net/seminars/library/Cop/Decorator/TableCell.php",
+		"/Volumes/toddholmberg.net/cop.toddholmberg.net/seminars/library/Cop/Decorator/TableRow.php",
+		"/Volumes/toddholmberg.net/cop.toddholmberg.net/seminars/application/forms/GetSectionConfiguration.php",
+		"/Volumes/toddholmberg.net/cop.toddholmberg.net/seminars/public/js/configureSections.js",
+		"/Volumes/toddholmberg.net/cop.toddholmberg.net/seminars/application/views/scripts/section/configure-sections.phtml",
+		"/Volumes/toddholmberg.net/cop.toddholmberg.net/seminars/application/views/scripts/section/save-section-configuration.phtml",
+		"/Volumes/toddholmberg.net/cop.toddholmberg.net/seminars/application/forms/ConfigureSections.php",
+		"/Volumes/toddholmberg.net/cop.toddholmberg.net/seminars/application/layouts/scripts/layout.phtml",
+		"/Volumes/toddholmberg.net/cop.toddholmberg.net/seminars/application/controllers/SectionController.php",
+		"/Volumes/toddholmberg.net/cop.toddholmberg.net/seminars/library/Cop/Decorator/Composite.php",
+		"/Volumes/toddholmberg.net/cop.toddholmberg.net/seminars/application/models/SectionMapper.php",
+		"/Volumes/toddholmberg.net/cop.toddholmberg.net/seminars/application/models/DbTable/SectionConfig.php",
+		"/Volumes/toddholmberg.net/cop.toddholmberg.net/seminars/application/forms/EditUser.php",
+		"/Volumes/toddholmberg.net/cop.toddholmberg.net/seminars/application/views/scripts/section/get-section-configuration.phtml",
+		"/Volumes/tholmberg.dev - il_lib/Repo/Authors/Writer/MySQL.php",
+		"/Volumes/tholmberg.dev - il_lib/Repo/Authors/Reader/MySQL.php",
+		"/Volumes/tholmberg.dev - il_lib/Repo/Stories/Writer/MySQL.php",
+		"/Volumes/tholmberg.dev - il_lib/Repo/Stories/Writer/ElasticSearch.php",
+		"/Volumes/tholmberg.dev - il_lib/Repo/Stories/Writer.php",
+		"/Volumes/tholmberg.dev - il_lib/Zend/Module/Api/controllers/IndexController.php",
+		"/Volumes/tholmberg.dev - il_lib/Repo/Stories/Mapper.php",
+		"/Volumes/tholmberg.dev - il_lib/Repo/Stories/Reader/MySQL.php",
+		"/Volumes/tholmberg.dev - il_lib/Repo/Stories/Reader.php",
+		"/Volumes/tholmberg.dev - il_lib/Zend/Module/Api/controllers/helpers/Article.php",
+		"/Volumes/tholmberg.dev - il_lib/Zend/Module/Api/controllers/helpers/PublishByActionAndType.php",
+		"/Volumes/tholmberg.dev - il_lib/Zend/Module/Api/controllers/helpers/Author.php",
+		"/Volumes/tholmberg.dev - il_lib/Zend/Module/Api/controllers/helpers/Story.php",
+		"/Volumes/tholmberg.dev - il_lib/Zend/Module/Api/controllers/plugins/Auth.php",
+		"/Users/todd/Downloads/product-kh99_spambot_stopper.xml",
+		"/Volumes/tholmberg.dev - vhosts/cms.insidelacrosse.com/htdocs/sites/default/modules/il_publisher/il_publisher.module",
+		"/Volumes/toddholmberg.net/toddholmberg.net/index.php",
+		"/Volumes/toddholmberg.net/theholmbergs.org.tar.gz",
+		"/Users/todd/Sites/js-assessment/tests/app/objects.js",
+		"/Users/todd/Sites/js-assessment/app/objects.js",
+		"/Users/todd/Sites/js-assessment/tests/app/bestPractices.js",
+		"/Users/todd/Sites/js-assessment/app/bestPractices.js",
+		"/Users/todd/Sites/js-assessment/server/server.js",
+		"/Users/todd/Sites/js-assessment/Gruntfile.js",
+		"/Volumes/toddholmberg.net 1/toddholmberg.net/interviews/control4/reverseSentence.php",
+		"/Volumes/toddholmberg.net 1/toddholmberg.net/interviews/control4/reverseSentence.html",
+		"/Volumes/toddholmberg.net 1/toddholmberg.net/interviews/control4/reverseSentenceJQ.html",
+		"/Volumes/toddholmberg.net 1/cop.toddholmberg.net/seminars/application/models/SectionMapper.php",
+		"/Volumes/toddholmberg.net/air/index.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"_play",
+			"regis",
+			"error_log",
+			"sco_node_play",
+			"_url",
+			"sco_node_content_url",
+			"sco_node_play",
+			"sco_node_get_attempt",
+			"sco_node_play",
+			"sco_node_api",
+			"sco_node_api_fetch",
+			"sco_",
+			"sc0_",
+			"ajax",
+			"sco_node_load",
+			"Start",
+			"form_alter",
+			"alter",
+			"public function getTakeUrl",
+			"getTakeUrl",
+			"1.9.3",
+			"type",
+			"getType",
+			"Composite",
+			"		$",
+			"saveSectionConfiguration",
+			"setAction",
+			"sectionDataHidden",
+			"12",
+			"sectionId",
+			"sectionMapIdHidden",
+			"SectionConfig",
+			"getSection",
+			"Authors",
+			"Author",
+			"author",
+			"tholmberg"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"TableCell",
+			"academicYearHidden",
+			"self::DEFAULT_ATTENDANCE_COUNT",
+			"sectionDataHidden",
+			"Stories",
+			"story"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/views/welcome/index.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 74,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 100.0
+	},
+	"project": "blog.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 387.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Application_Model_SectionMapper"
+			]
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"17":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"21":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"22":
+				{
+					"group": 0,
+					"index": 2
+				},
+				"23":
+				{
+					"group": 0,
+					"index": 3
+				},
+				"24":
+				{
+					"group": 0,
+					"index": 4
+				},
+				"25":
+				{
+					"group": 0,
+					"index": 5
+				},
+				"26":
+				{
+					"group": 0,
+					"index": 6
+				},
+				"27":
+				{
+					"group": 0,
+					"index": 7
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 261.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
